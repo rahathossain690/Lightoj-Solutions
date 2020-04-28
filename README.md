@@ -2,8 +2,6 @@
 This repository contains all my lightoj accepted solutions.
 
 # User-info
-Username: Rahat Hossain
-
-User-id: 47944
-
-user-link: http://lightoj.com/volume_userstat.php?user_id=47944
+Name: Rahat Hossain</br>
+Id: 47944</br>
+Link: http://lightoj.com/volume_userstat.php?user_id=47944
